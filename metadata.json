@@ -1,0 +1,5 @@
+{
+  "name": "Profx - The AI Professor",
+  "description": "A distinguished AI Professor with dual PhDs in Physics and Mathematics, providing rigorous academic explanations in Bengali and English.",
+  "requestFramePermissions": ["microphone"]
+}
